@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @steph-ayo
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning javascript and react.js
+- 🌱 I’m currently a react frontend developer
 - 💞️ I’m looking forward to collaborate on several projects
 - 📫 How to reach me : popoolastephen19@gmail.com
 
