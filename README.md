@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @steph-ayo
+- 👋 Hi, I’m Stephen
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently a react frontend developer
+- 🌱 I’m currently a frontend developer - [React, TailwindCSS, Nextjs & Typescript]
 - 💞️ I’m looking forward to collaborate on several projects
 - 📫 How to reach me : popoolastephen19@gmail.com
 
